@@ -1,3 +1,3 @@
 # Olá...
- Aqui trato sobre assuntos interessantes, como qualquer coisa.
+ 
 <div><img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro-Nogarotto&layout=compact&langs_count=7&theme=dracula><div/>
